@@ -3,7 +3,7 @@
 
 html { 
      font-family: sansserif; 
-     color: white
+     color: white #F06529.
      }
 
 h1 {
@@ -11,7 +11,16 @@ h1 {
   font-family: "georgia"
   }
 
-<h1>Midterm Exam</h1>
-<h2>IM1200 Basic Web Design</h2>
-<h4>Your Name</h4>
-<h4>Today's Date</h4>
+<h1>Midterm Exam</h1> p.uppercase {
+    text-transform: uppercase;
+
+<h2>IM1200 Basic Web Design</h2> p.uppercase {
+    text-transform: uppercase;
+
+<h4> <a href: "https://boyjupo.me">Your Name</h4> p.uppercase {
+    text-transform: uppercase;
+
+<h4>Today's Date</h4> p.uppercase {
+    text-transform: uppercase;
+    
+    <img: source: "https://www.w3.org/html/logo/downloads/HTML5_Logo.svg">
