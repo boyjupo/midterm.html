@@ -1,0 +1,17 @@
+<doctype html>
+<style>
+
+html { 
+     font-family: sansserif; 
+     color: white
+     }
+
+h1 {
+  font-size: 48px; 
+  font-family: "georgia"
+  }
+
+<h1>Midterm Exam</h1>
+<h2>IM1200 Basic Web Design</h2>
+<h4>Your Name</h4>
+<h4>Today's Date</h4>
